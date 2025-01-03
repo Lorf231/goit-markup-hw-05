@@ -561,10 +561,11 @@ p{
 
 .footer-form {
     display: flex;
+    gap: 24px;
 }
 
 .footer-form-label {
-    gap: 24px;
+    
 }
 
 .footer-form-label-input {
@@ -605,7 +606,7 @@ input::placeholder {
 
 .footer-form-btn-icon {
     margin-left: 16px;
-    
+
 }
 
 /* #endregion */
